@@ -1,8 +1,8 @@
 # Guardian Of GaYa: The SISU Protocols
 
-### Tämä 2D-peli on toteutettu HTML:n, CSS:n ja JavaScriptin Canvas API:n avulla ROSAVALL Satu ja ROUISSI Yahya projektityönä.
+### Tämä 2D-peli on toteutettu HTML -, CSS-ja JavaScript Canvas API: n avulla rouissi Yahyan ja ROSAVALL Satun helmikuussa 2024 tekemänä projektina.
 
-[Kokeile täältä](https://saturosvall.github.io/Canvas-API-ryhmatyo/)
+[Kokeile täältä](https://yaro101.github.io/Guardian_Of_Gaya-SISU_Protocols/)
 
 ## Sisällysluettelo
 
