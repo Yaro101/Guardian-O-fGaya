@@ -1,6 +1,5 @@
 <img src="assets/logo.png" align="right" width="300">
 <br/>
-
 # Guardian Of GaYa: The SISU Protocols
 
 ### Tämä 2D-peli on toteutettu HTML -, CSS-ja JavaScript Canvas API: n avulla rouissi Yahyan ja ROSAVALL Satun helmikuussa 2024 tekemänä projektina.
